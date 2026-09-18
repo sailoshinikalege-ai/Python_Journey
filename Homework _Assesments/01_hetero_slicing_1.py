@@ -1,13 +1,4 @@
-Python 3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)] on win32
-Enter "help" below or click "Help" above for more information.
-l1=[10,'apple',3.14,True,'Python',None,25,[1,2],'end']
-l1
-[10, 'apple', 3.14, True, 'Python', None, 25, [1, 2], 'end']
-l[:4]
-Traceback (most recent call last):
-  File "<pyshell#2>", line 1, in <module>
-    l[:4]
-NameError: name 'l' is not defined. Did you mean: 'l1'?
+'''
 l1[:4]
 [10, 'apple', 3.14, True]
 l1[-3:]
@@ -38,8 +29,7 @@ l1[::-2]
 ['end', 25, 'Python', 3.14, 10]
 l1[-6:-2]
 [True, 'Python', None, 25]
-l1:[2:5]
-SyntaxError: invalid syntax
+
 l1[2:5]
 [3.14, True, 'Python']
 l1[::1]
@@ -147,3 +137,4 @@ l[::-2]
 [1, 'two', 3.0, [4, 5], ('six', 6), True, {'key': 'value'}, None]
 >>> l[::-1]
 ['last', None, {'key': 'value'}, True, ('six', 6), [4, 5], 3.0, 'two', 1]
+'''
