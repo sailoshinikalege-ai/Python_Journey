@@ -1,9 +1,10 @@
 # 🐍 Python Journey
 
 Welcome to my **Python learning journey**!
-This repository contains my practice programs, homework, assessments, and exercises as I learn Python step by step.
 
-I am currently learning Python through coaching and practicing regularly using **VS Code**.
+This repository contains my Python class practice, homework, assessments, OOP programs, advanced Python practice, and programs I practice on my own.
+
+I am currently learning Python through coaching and using **VS Code** for practice.
 
 ---
 
@@ -11,14 +12,13 @@ I am currently learning Python through coaching and practicing regularly using *
 
 ### 🔹 Python Basics
 
+* Basic Inputs and Outputs
 * Variables and Data Types
-* Input and Output
 * Operators
 * Conditional Statements
 * `if`, `elif`, `else`
 * Nested Conditions
 * Loops
-* `for` and `while`
 * Strings
 * String Slicing
 * Lists, Tuples, Sets and Dictionaries
@@ -26,17 +26,17 @@ I am currently learning Python through coaching and practicing regularly using *
 * Function Arguments
 * `return`
 * `*args` and `**kwargs`
-* `global` and `local` variables
+* Global and Local Variables
 
-### 🔹 Object-Oriented Programming (OOP)
+### 🔹 Object-Oriented Programming
 
 * Classes and Objects
 * Methods
 * Constructors
 * `self`
 * Inheritance
-* Method Overriding
 * Polymorphism
+* Method Overriding
 * Encapsulation
 * Data Hiding
 * Public, Protected and Private Members
@@ -49,8 +49,8 @@ I am currently learning Python through coaching and practicing regularly using *
 * Lambda Functions
 * `map()`
 * `filter()`
-* List Comprehension
-* Collection-based problems
+* Comprehensions
+* Collection-based Problems
 
 ---
 
@@ -58,6 +58,15 @@ I am currently learning Python through coaching and practicing regularly using *
 
 ```text
 Python_Journey/
+│
+├── 📁 Class_Practice/
+│   ├── 01_Basic_inputs/
+│   ├── 02_If_statements/
+│   ├── 03_If_Else/
+│   ├── 04_Nested_If/
+│   ├── 05_Loops/
+│   ├── ...
+│   └── More topics as I learn
 │
 ├── 📁 Homework_Assessments/
 │   ├── 09_Oops_Asses.py
@@ -95,12 +104,13 @@ Python_Journey/
 
 ## 📝 Folder Description
 
-| Folder                 | Description                                   |
-| ---------------------- | --------------------------------------------- |
-| `Homework_Assessments` | Assessment and homework programs              |
-| `OOPS`                 | Programs based on Object-Oriented Programming |
-| `Own_Practise`         | Programs I practice on my own                 |
-| `Python_Advance`       | Advanced Python concepts and functions        |
+| Folder                 | Description                                                     |
+| ---------------------- | --------------------------------------------------------------- |
+| `Class_Practice`       | Python programs practiced during coaching, organized topic-wise |
+| `Homework_Assessments` | Homework and assessment programs                                |
+| `OOPS`                 | Object-Oriented Programming concepts and practice               |
+| `Own_Practise`         | Programs practiced independently                                |
+| `Python_Advance`       | Advanced Python concepts such as Lambda and `map()`             |
 
 ---
 
@@ -109,12 +119,15 @@ Python_Journey/
 I am currently working on:
 
 * OOP concepts
+* Inheritance
+* Polymorphism
+* Encapsulation
 * Abstraction
-* Lambda functions
+* Lambda Functions
 * `map()`
 * `filter()`
 * Comprehensions
-* Problem-solving using Python
+* Python problem-solving
 
 ---
 
@@ -152,12 +165,12 @@ DSA                    ⏳ Upcoming
 
 My goal is to build a strong foundation in **Python and problem-solving**, followed by **DSA and Python Full Stack development**.
 
-This repository will continue to grow as I learn and practice new concepts.
+I will continue updating this repository as I learn and practice new concepts.
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a **BCA student** currently learning Python and building my programming skills step by step.
+I am a **BCA student** currently learning Python and developing my programming skills through class practice, assessments, and self-practice.
 
 > **Learn → Practice → Make Mistakes → Improve → Repeat.** 🐍💻
