@@ -35,3 +35,9 @@ print(next(m))
 print(next(m))
 print(next(m))\
 '''
+fruits = ["apple", "banana", "mango"]
+f = iter(fruits)
+print(next(f))
+print(next(f))
+print(next(f))
+print(next(f))  

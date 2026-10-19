@@ -91,7 +91,7 @@ while i<=50:
     if i %5 ==0:
         print(i,"Divisible by 5")
     i =i+1
-   '''
+   
 
 num= int(input("Enter a num:"))
 
@@ -106,3 +106,7 @@ while num>0:
 
 print(i, "largest")
           
+'''
+n = int(input())
+for i in range (1,n+1):
+    print(i**2)

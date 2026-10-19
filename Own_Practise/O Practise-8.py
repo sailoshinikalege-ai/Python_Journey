@@ -23,5 +23,3 @@ c1 = Child('SATYANARAYANA','ANITHA','NIKKY')
 c1.father_name()
 c1.mother_name()
 c1.child_name()
-
-#HERIACH
